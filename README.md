@@ -2,7 +2,7 @@
 I am a computer science year 3 student currently studenting in HKUST.
 
 ## 🌱 I’m currently learning ...
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,js,ts,html,scala,py,arduino,java,linux,docker,opencv,pytorch,ros,tensorflow,qt)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,js,ts,html,scala,py,arduino,java,linux,docker,opencv,pytorch,ros,tensorflow,qt,R)](https://skillicons.dev)
 
 <!--
 **HenryHYH3145/HenryHYH3145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
