@@ -1,5 +1,5 @@
 ## Hi there, I am Henry Hong. 👋
-I am a computer science year 3 student currently studenting in HKUST.
+I am a computer science year 3 student currently studying in HKUST.
 
 ## 🌱 I’m currently learning ...
 [![SkillIcons](https://skillicons.dev/icons?i=c,cpp,js,ts,html,scala,py,arduino,java,linux,docker,opencv,pytorch,ros,tensorflow,qt,r)](https://skillicons.dev)
